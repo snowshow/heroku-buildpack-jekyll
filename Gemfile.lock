@@ -77,3 +77,4 @@ DEPENDENCIES
   rspec-core
   rspec-expectations
   rspec-retry
+  kramdown
